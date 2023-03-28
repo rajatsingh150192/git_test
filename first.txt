@@ -1,1 +1,2 @@
-This is first line added to first.text file
+THIS is first line added to first.text file.
+We are going to add new second line and convert first letter of first line to upper case
